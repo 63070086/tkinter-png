@@ -1,0 +1,20 @@
+## Commits ##
+
+# Author					Date			Commit	Message #
+hokazenoflames				Mar 25, 2013	17		Updated README.txt with 0.75 changelog
+hokazenoflames				Mar 25, 2013	16		Added various optimisations (aprox 20% faster) and fixed a bug in PngImageTk.con
+hokazenoflames				Jan 19, 2013	15		Tweaks to rotate offset code. Angles 90, 180, 270 and 360 now work correctly. Cl
+HoKazeNoFlames@gmail.com	Dec 12, 2012	14		Edited wiki page Documentation through web user interface.
+HoKazeNoFlames@gmail.com	Dec 12, 2012	13		Created wiki page through web user interface.
+hokazenoflames				Dec 12, 2012	12		Added missing files: license.txt, README.txt, etc
+hokazenoflames				Dec 12, 2012	11		Incomplete and hacked-together rotate function. Needs further fixing, DO NOT USE
+hokazenoflames				Dec 12, 2012	10		Added dev branch for rotate function.
+hokazenoflames				Dec 12, 2012	9		Split code into the module and an example application. Module changed to use und
+hokazenoflames				Dec 12, 2012	8		Cleaned up directory structure, added png.py from the pypng project
+hokazenoflames				Dec 12, 2012	7		Name change, added missing image files. Moving bouncing ball between layers bett
+hokazenoflames				Dec 12, 2012	6		Added some missing PhotoImage methods, implemented boolean transparency.
+hokazenoflames				Dec 12, 2012	5		Further optimisations, now places all pixels in a single operation.
+hokazenoflames				Dec 12, 2012	4		Structure cleaned up to use classes and functions
+HoKazeNoFlames@gmail.com	Dec 12, 2012	3		Speed improvement over 0.1, places entire rows of pixels at a time instead of in
+HoKazeNoFlames@gmail.com	Dec 12, 2012	2		The original "concept" code, no alpha support and painfully slow, but functioned
+J Wright (hokaze)			Dec 12, 2012	1		Initial directory structure.
