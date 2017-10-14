@@ -1,8 +1,6 @@
-tkinter-png - pure python PNG implementation for tkinter
+THE MIT License (MIT)
 
 Copyright (C) 2012 James Wright <hokazenoflames@gmail.com>
-
-LICENSE (The MIT License)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation files
